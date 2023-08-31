@@ -1,0 +1,50 @@
+export const listadoProdutos = [
+	{	id:1,
+		category:"zapatillas",	
+		description:"ZAPATILLAS GRAND COURT. ZAPATILLAS MINIMALISTAS CON UN ESTILO CLÁSICO",		
+        img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c9598a1cf2924169888aa9810136e6d6_9366/Zapatillas_Grand_Court_Blanco_F36485_01_standard.jpg",		
+		name:"Zapatillas Grand Court",
+		price:12499,
+		stock:5
+	},
+	{	id:2,
+		category:"zapatillas",
+		description:"ZAPATILLAS RUNFALCON. ZAPATILLAS DE MÁXIMA SUJECIÓN PARA TUS SALIDAS DIARIAS A CORRER",		
+		img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/449c838942da409f8ba9a97f00d3cffe_9366/Zapatillas_Runfalcon_Negro_F36199_01_standard.jpg",		
+		name:"Zapatillas RunFalcon",
+		price:11499,
+		stock:4
+	},
+		{ id:3,
+		category:"remeras",
+		description:"REMERA SPRT ESTAMPADA UNA REMERA PARA USO DIARIO INSPIRADA EN LOS ARCHIVOS DE ADIDAS",		
+		img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fb35807a48ac4fd5b89aac7501578899_9366/Remera_SPRT_Estampada_Blanco_GN2428_21_model.jpg",		
+		name:"Remera sprt Estampada",
+		price:7499,
+		stock:2
+	},
+		{id:4,
+		category:"remeras",
+		description:"REMERA ADICOLOR CLASSICS 3 TIRAS. UNA REMERA DE ALGODÓN SUAVE PARA RELAJARSE EN SERIO",		
+		img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ff058259bf8f4615a3ddab73012befc9_9366/Gorra_Beisbol_Vintage_Goofy_(UNISEX)_Negro_GD5509_01_standard.jpg",		
+		name:"Gorra Beisbol Goofy",
+		price:7499,
+		stock:2
+	},
+		{id:5,
+		category:"gorras",
+		description:"GORRA BÉISBOL VINTAGE GOOFY (UNISEX) UNA GORRA DIVERTIDA CREADA POR LA COLABORACIÓN ENTRE ADIDAS Y DISNEY",		
+		img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fcae6f5e2cdc41e390b9ad58009a1f53_9366/Remera_Adicolor_Classics_3_Tiras_Granate_H06774_21_model.jpg",		
+		name:"Remera Adicolor Classics 3 Tiras",
+		price:6999,
+		stock:7
+	},
+	{id:6,
+		category:"remeras",
+		description:"REMERA DISNEY MICKEY Y AMIGOS. UNA REMERA ÚNICA DE ADIDAS ORIGINALS X DISNEY",		
+		img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2886d7608f5447c2b0e9ad030147350e_9366/Remera_Disney_Mickey_y_Amigos_Blanco_H22579_01_laydown.jpg",		
+		name:"Remera Disney Mickey y Amigos",
+		price:5999,
+		stock:7
+	}
+]
