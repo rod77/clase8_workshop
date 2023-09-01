@@ -18,7 +18,7 @@ export const listadoProdutos = [
 		{ id:3,
 		category:"remeras",
 		description:"REMERA SPRT ESTAMPADA UNA REMERA PARA USO DIARIO INSPIRADA EN LOS ARCHIVOS DE ADIDAS",		
-		img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fb35807a48ac4fd5b89aac7501578899_9366/Remera_SPRT_Estampada_Blanco_GN2428_21_model.jpg",		
+		img:"https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/180f93525ba74e61b7c4aed7014f7a45_9366/Zapatillas_Supernova_2.0_Naranja_GY1772_01_standard.jpg",		
 		name:"Remera sprt Estampada",
 		price:7499,
 		stock:2
